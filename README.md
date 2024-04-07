@@ -11,7 +11,7 @@ This script allows you to upload a file to VirusTotal for analysis and retrieve 
 
 ### Running the Script
 
-1. Clone the repository:
+1. Clone the repository
 `git clone https://github.com/hoaxter/SUS.git
 `
 
@@ -30,5 +30,13 @@ Replace `<path_to_file>` with the path to the file you want to scan.
 - [Nitin Sikarwar](https://github.com/hoaxter)
 
 ## License
+Replace `<path_to_file>` with the path to the file you want to scan.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Author
+
+[Nitin Sikarwar](https://github.com/hoaxter)
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+
