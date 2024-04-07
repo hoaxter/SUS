@@ -1,4 +1,5 @@
 # SUS
+![Uploading among-us-you-seem-sus-red-saurabh-suryavanshi-transparent.png…]()
 
 This script allows you to upload a file to VirusTotal for analysis and retrieve the analysis results.
 
@@ -8,6 +9,9 @@ This script allows you to upload a file to VirusTotal for analysis and retrieve 
 
 - Python 3.x
 - Requests library (Install using `pip install requests`)
+- Set Your API KEY
+  ![Screenshot 2024-04-07 223753](https://github.com/hoaxter/SUS/assets/141468297/17ee9a3c-7048-4ce7-8a53-a04d3213bad3)
+
 
 ### Running the Script
 
@@ -23,13 +27,6 @@ This script allows you to upload a file to VirusTotal for analysis and retrieve 
 `python sus.py -m <path_to_file>
 `
 
-Replace `<path_to_file>` with the path to the file you want to scan.
-
-## Author
-
-- [Nitin Sikarwar](https://github.com/hoaxter)
-
-## License
 Replace `<path_to_file>` with the path to the file you want to scan.
 
 ## Author
