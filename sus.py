@@ -17,7 +17,7 @@ VT_API_KEY = ""
 VT_API_URL = "https://www.virustotal.com/api/v3/"
 
 
-class VTScan:
+class sus:
     def __init__(self):
         self.headers = {
             "x-apikey": VT_API_KEY,
@@ -137,5 +137,5 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('-m', '--mal', required=True, help="PE file path for scanning")
     args = vars(parser.parse_args())
-    vtscan = VTScan()
+    vtscan = sus()
     vtscan.run(args["mal"])
