@@ -2,7 +2,7 @@
 
 ![among-us-you-seem-sus-red-saurabh-suryavanshi-transparent](https://github.com/hoaxter/SUS/assets/141468297/9af018c8-03bf-460e-b526-50db7fa76fa3)
 
-This script allows you to upload a file to VirusTotal for analysis and retrieve the analysis results.
+This script allows you to upload a file for malware analysis and retrieve the analysis results using virustotal api.
 
 ## Usage
 
